@@ -13,3 +13,4 @@ pub(crate) use noop_proc_macro::{Serialize, Deserialize};
 ## Supported `proc_macros`
 
 - [Serde](https://serde.rs)
+- [rust-hawktracer](https://github.com/AlexEne/rust_hawktracer)
