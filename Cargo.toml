@@ -1,6 +1,6 @@
 [package]
 name = "noop_proc_macro"
-version = "0.2.1"
+version = "0.3.0"
 authors = ["Luca Barbato <lu_zero@gentoo.org>"]
 edition = "2018"
 description = "No-op proc_macro, literally does nothing"
