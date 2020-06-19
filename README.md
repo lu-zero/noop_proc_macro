@@ -14,3 +14,4 @@ pub(crate) use noop_proc_macro::{Serialize, Deserialize};
 
 - [Serde](https://serde.rs)
 - [rust-hawktracer](https://github.com/AlexEne/rust_hawktracer)
+- [wasm_bindgen](https://github.com/rustwasm/wasm-bindgen)
